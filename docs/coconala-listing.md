@@ -147,6 +147,9 @@ SwiftUIの小さな修正・お悩み相談に乗ります
 画面のレイアウト崩れ・ビルドエラーなどを一緒に解決
 ```
 
+### サムネイル
+`docs/coconala-thumbnail-fix.png`（修正前後のコードを並べた画像）
+
 ### サービス内容
 ```
 SwiftUI で作っている iPhone アプリの「ちょっと困った」を解決します。
@@ -190,7 +193,7 @@ SwiftUI でiPhoneアプリを3本自作しています
 ## 出品前のチェックリスト
 
 - [ ] プロフィールに GitHub の URL、使える技術（Swift / SwiftUI / Xcode）、返信できる時間帯を書く
-- [ ] サムネイル画像を差し替える（`docs/coconala-thumbnail.png`）
+- [ ] サムネイル画像を設定する（出品①: `docs/coconala-thumbnail.png`／出品②: `docs/coconala-thumbnail-fix.png`）
 - [ ] 制作例のスクリーンショット（各 `screenshots/`）を出品の追加画像に入れる
 - [ ] GitHub リポジトリを公開設定にする（非公開のままだと購入者がコードを見られない）
 - [ ] App Store 申請代行の出品は、自分で1本ストアに公開した後に追加する
